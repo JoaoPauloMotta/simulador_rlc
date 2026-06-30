@@ -6,7 +6,7 @@ O grande diferencial deste projeto é a sua **arquitetura sênior**, desenvolvid
 
 ---
 
-## 🛠️ Arquitetura do Projeto e Design Sênior
+## Arquitetura do Projeto
 
 Ao contrário de scripts acadêmicos tradicionais que misturam a física, a matemática e a interface em um único arquivo, este software foi planejado como um sistema escalável e desacoplado:
 
