@@ -2,7 +2,7 @@
 
 Este repositório contém um simulador de circuito elétrico RLC em série (Resistor, Indutor e Capacitor) desenvolvido com foco em alta maturidade de software. O projeto traduz as equações diferenciais que governam o circuito para o espaço de estados e aplica o método numérico de **Runge-Kutta de 4ª Ordem (RK4)** para resolver a resposta do sistema no tempo.
 
-O grande diferencial deste projeto é a sua **arquitetura sênior**, desenvolvida sob os princípios **SOLID** (notavelmente o Princípio da Responsabilidade Única - SRP) e aplicando tipagem estática robusta (*Type Hinting*).
+Desenvolvida sob os princípios **SOLID** (notavelmente o Princípio da Responsabilidade Única - SRP) e aplicando tipagem estática robusta (*Type Hinting*).
 
 ---
 
